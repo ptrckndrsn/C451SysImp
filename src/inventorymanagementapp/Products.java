@@ -10,7 +10,7 @@ import java.sql.ResultSet;
 import java.sql.DriverManager;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import java.sql.PreparedStatement;
+import java.sql.PreparedStatement; 
 import javax.swing.JOptionPane;
 import net.proteanit.sql.DbUtils;
 import javax.swing.table.DefaultTableModel;
